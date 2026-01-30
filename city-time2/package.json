@@ -1,8 +1,0 @@
-{
-  "name": "city-time2",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "luxon": "^3.5.0"
-  }
-}
